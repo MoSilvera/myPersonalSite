@@ -588,6 +588,9 @@ ul.nav > li > a.active{
 .hero-content .default-btn:before{
     background-color: #ffc10f;
 }
+#funny-img{
+    max-height: 535px;
+}
 
 /* ==========================================================================
    Promo Section
@@ -635,10 +638,9 @@ ul.nav > li > a.active{
     background-repeat: no-repeat;
     background-position: top center;
     position: absolute;
-    width: 573px;
-    height: 907px;
-    right: -140px;
-    top: 0;
+    width: 380px;
+    right: 0px;
+    top: 4;
     z-index: -1;
 }
 .about-content-left h2{
