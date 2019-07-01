@@ -589,7 +589,9 @@ ul.nav > li > a.active{
     background-color: #ffc10f;
 }
 #funny-img{
-    max-height: 535px;
+    max-height: 580px;
+    border: 20px solid #ed305d;
+    border-radius: 10px;
 }
 
 /* ==========================================================================
@@ -1554,6 +1556,10 @@ ul.nav > li > a.active{
 }
 
 /*Contact Form*/
+
+#balloons{
+    height: 50px;
+}
 .contact-form p{
     font-size: 14px;
 }
